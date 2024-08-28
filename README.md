@@ -1,4 +1,4 @@
-# Hi, I'm Ella Robertson-Bonds - a data analyst with a passion for global development
+# Hi, I'm Ella - a data analyst with a passion for global development
 
 I’m a data analyst with a deep commitment to leveraging data to drive social impact, particularly in the areas of global health, development finance, climate finance, and gender equality. I have a proven track record of using data to create meaningful insights, support policy decisions, and develop innovative tools that make complex issues accessible and actionable.
 
